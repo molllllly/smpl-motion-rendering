@@ -1,0 +1,15 @@
+outputs/
+*.mp4
+__pycache__/
+.DS_Store
+render_bbox_follow_video
+render_4smpl_out
+render_4smpl_out_two
+render_pixel_align_fix_dir
+render_smpl_3dpw_out
+render_4smpl_out_two_bilk
+render_bbox_lock
+*.npz
+data/basicmodel_neutral_lbs_10_207_0_v1.0.0.pkl
+*.pkl
+data/smpl/SMPL_NEUTRAL.pkl
